@@ -15,3 +15,6 @@ http://damaga377vyvydeqeuigxvl6g5sbmipoxb5nne6gpj3sisbnslbhvrqd.onion/
 
 ## leakbase
 https://leakbase.io/
+
+## dangerzone 
+https://dangerzone.cx
