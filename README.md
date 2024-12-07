@@ -2,7 +2,7 @@
 List of forums
 
 ## BreachForums
-http://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion/canary.txt
+http://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion/canary.txt \
 breachforums.st
 
 ## XSS.is
@@ -18,4 +18,6 @@ http://damaga377vyvydeqeuigxvl6g5sbmipoxb5nne6gpj3sisbnslbhvrqd.onion/
 https://leakbase.io/
 
 ## dangerzone 
-https://dangerzone.cx
+https://dangerzone.cx \
+http://dangerzkwrpcvmyjl7tuopg2tus2srx4nfwhgm6yvtgqc3g54dvp4sad.onion
+
