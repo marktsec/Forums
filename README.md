@@ -30,4 +30,6 @@ https://craxpro.io/
 ## funksec
 http://funk4ph7igelwpgadmus4n4moyhh22cib723hllneen7g2qkklml4sqd.onion/
 
+## DeepDarkCTI
+https://github.com/fastfire/deepdarkCTI
 
